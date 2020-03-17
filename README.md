@@ -1,2 +1,4 @@
 # distributedMAS
-Distributed multi-agent average consensys
+Distributed multi-agent average consensus
+
+
